@@ -13,13 +13,15 @@ function Cards() {
                         src="images/Screen Shot 2020-12-05 at 7.32.00 PM.png"
                         text="Pokemon Team Builder"
                         label="Pokemon"
-                        path="/work"
+                        target="_blank"
+                        href="https://danielrezz.github.io/weather_dashboard/" 
                         />
                         <CardItem 
                         src="images/Screen Shot 2020-12-05 at 7.32.38 PM.png"
                         text="Weather Dashboard"
                         label="Weather"
-                        path="/work"
+                        target="_blank"
+                        href="https://danielrezz.github.io/weather_dashboard/"
                         />
                         <CardItem 
                         src="images/screenshot.PNG"

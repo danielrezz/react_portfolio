@@ -11,7 +11,7 @@ function Hero() {
             <p>Welcome to my portfolio site!</p>
             <div className='hero-btns'>
                 <Button className='btns' buttonStyle='btn--outline'
-                buttonSize='btn--large'>
+                buttonSize='btn--large' to='/work'>
                     Work
                 </Button>
                 <Button className='btns' buttonStyle='btn--primary'
