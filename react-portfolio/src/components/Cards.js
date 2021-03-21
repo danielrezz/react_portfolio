@@ -5,7 +5,7 @@ import './Cards.css'
 function Cards() {
     return (
         <div className="cards">
-            <h1>Check out some of these projects</h1>
+            <h1>Here are a few projects I've worked on</h1>
             <div className="cards__container">
                 <div class="cards__wrapper">
                     <ul className="cards__item">
@@ -14,7 +14,7 @@ function Cards() {
                         text="Pokemon Team Builder"
                         label="Pokemon"
                         target="_blank"
-                        href="https://danielrezz.github.io/weather_dashboard/" 
+                        href="https://danielrezz.github.io/pokemon_teambuilder/" 
                         />
                         <CardItem 
                         src="images/Screen Shot 2020-12-05 at 7.32.38 PM.png"
@@ -27,7 +27,8 @@ function Cards() {
                         src="images/screenshot.PNG"
                         text="QuizNode"
                         label="QuizNode"
-                        path="/work"
+                        target="_blank"
+                        href="https://calm-journey-11508.herokuapp.com/"
                         />
                     </ul>
                 </div>

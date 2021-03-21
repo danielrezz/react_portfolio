@@ -16,29 +16,29 @@
     font-size: 3rem;
   }
   
-  .services {
+  .work {
     /* background-image: url('/images/img-2.jpg'); */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    color: #fff;
+    color: black;
     font-size: 100px;
   }
   
-  .products {
+  .about {
     /* background-image: url('/images/img-1.jpg'); */
     background-position: center;
     background-size: fill;
     background-repeat: no-repeat;
-    color: #fff;
+    color: black;
     font-size: 100px;
   }
   
-  .sign-up {
+  .contact {
     /* background-image: url('/images/img-8.jpg'); */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    color: #fff;
+    color: black;
     font-size: 100px;
   }
