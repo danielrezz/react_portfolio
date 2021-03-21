@@ -13,7 +13,7 @@ function Hero() {
             <div className='hero-btns'>
                 <Button className='btns' buttonStyle='btn--outline'
                 buttonSize='btn--large'>
-                    Say Hi
+                    Get in touch
                 </Button>
                 {/* <Button className='btns' buttonStyle='btn--primary'
                 buttonSize='btn--large' >

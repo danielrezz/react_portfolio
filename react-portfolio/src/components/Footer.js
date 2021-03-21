@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { Button } from './Button'
+// import { Button } from './Button'
 import './Footer.css'
 
 function Footer() {
@@ -42,25 +42,25 @@ function Footer() {
                     <small className='website-rights'>Made by me.</small>
                     <div className='social-icons'>
                         <Link className='social-icon-link github'
-                        to='https://github.com/danielrezz'
-                        target='_blank'
-                        aria-label='Github'
+                            to='/'
+                            target='_blank'
+                            aria-label='Github'
                         >
-                            <i className='fab fa-github'></i>
+                            <a href='https://github.com/danielrezz'><i className='fab fa-github'></i></a>
                         </Link>
                         <Link className='social-icon-link instagram'
-                        to='https://www.instagram.com/daniel_rezz/'
-                        target='_blank'
-                        aria-label='Instagram'
+                            to='/'
+                            target='_blank'
+                            aria-label='Instagram'
                         >
-                            <i className='fab fa-instagram'></i>
+                            <a href='https://www.instagram.com/daniel_rezz/'><i className='fab fa-instagram'></i></a>
                         </Link>
                         <Link className='social-icon-link linkedin'
-                        to='https://www.linkedin.com/in/daniel-reza-974b53a2/'
-                        target='_blank'
-                        aria-label='LinkedIn'
+                            to='/'
+                            target='_blank'
+                            aria-label='LinkedIn'
                         >
-                            <i className='fab fa-linkedin'></i>
+                            <a href='https://www.linkedin.com/in/daniel-reza-974b53a2/'><i className='fab fa-linkedin'></i></a>
                         </Link>
                     </div>
                 </div>
